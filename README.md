@@ -1,6 +1,5 @@
 # yojo
 ![](https://i.imgur.com/OC1Ycij.png)
-Communication tool
 
 ## usage
 ### debug
